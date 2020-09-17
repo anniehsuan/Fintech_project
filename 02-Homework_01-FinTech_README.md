@@ -1,6 +1,4 @@
 # FinTech Case Study- Ant Group's Alipay  
-
- 
 ---
 
 ## Comapany Overview and Origin
@@ -79,7 +77,7 @@
 - Market Penetration 
 - Avg Amount per Transaction  
 
-Also, Alipay hit the record of 544k transaction per second on China Single's Day (2019.11.11). It can be viewed as another metric that Alipay performed well under large amount of data.
+    Also, Alipay hit the record of 544k transaction per second on China Single's Day (2019.11.11). It can be viewed as another metric that Alipay performed well under large amount of data.
 
 - Competitors of Alipay: Tenpay, China Merchants Bank (A leading tranditional commercial bank) 
 
@@ -129,8 +127,8 @@ It appears Alipay has better performance in terms of dominating yearly transacti
 - https://en.wikipedia.org/wiki/Ant_Group
 - https://medium.com/@charliecliu/everything-you-need-to-know-about-alipay-and-wechat-pay-2e5e6686d6dc
 - https://digital.hbs.edu/platform-rctom/submission/alipay-wining-the-payments-game-in-china/
-- https://www.gizmochina.com/2019/07/31/qr-codes-are-increasingly-being-replaced-by-face-scans-for-payments-in-china/
-
+- https://www.gizmochina.com/2019/07/31qr-codes-are-increasingly-being-replaced-by-face-scans-for-payments-in-china/
+- Equity Research Reports & IBIS World 
 ## 
 
 
