@@ -36,10 +36,11 @@
     - Market size: In 2019, the mobile payments transactions in China has reached 720 billion, valuing at around 40 trillion USD
 
 ### What solution does this company offer that their competitors do not or cannot offer? 
-    Tencent pay is connected to the social network platform called Wechat, while Alipay is connected to the e-commerce services and transactions.
+    Tencent pay is connected to the social network platform called Wechat, while Alipay is connected to the e-commerce services and transactions. This difference creates the gap of customer base, transaction types, and transaction amounts betweem two companies.
 
 ### Which technologies are they currently using, and how are they implementing them? 
-    ** BASIC: Blockchain, AI, Security, IoT, Computing ** is the Ant Group's technological foundation. In terms of Fintech, the company has applied more in Blockchain, AI and Computing.
+
+**BASIC** : Blockchain, AI, Security, IoT, Computing,  is the Ant Group's technological foundation. In terms of Fintech, the company has applied more in Blockchain, AI and Computing.
 
     - AI: AlphaRisk risk management(Risk Perception, AI Detect, Evolution) to minimize the rate of credit loss to less than 1/10M, and also improve the machine learning process of risk detection within the risk management control. 
  
@@ -67,9 +68,12 @@
 
 ### What has been the business impact of this company so far?
  1. Change payment and consuming behaviour 
- A company that can change human behaviours is the one dominating the market in the future. This is what the Alipay and Ant Group has done. It connects the logistics, information as well as cash altogether, compared to the traditional separate connections. 
+
+    A company that can change human behaviours is the one dominating the market in the future. This is what the Alipay and Ant Group has done. It connects the logistics, information as well as cash flows altogether, compared to the traditional separate connections. 
+ 
  2. Establishing strategic partnerships around the world
- The Ant Group partnerships with payments, transactions, IoT companies in Asia, Europe, North America, and Oceania to expand the business globally. It showcases the power of technology can break the geographical limitation and bring faster and more convenient life to customers around the world.
+
+    The Ant Group partnerships with payments, transactions, IoT companies in Asia, Europe, North America, and Oceania to expand the business globally. It showcases the power of technology can break the geographical limitation and bring faster and more convenient life to customers around the world.
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -108,7 +112,7 @@ It appears Alipay has better performance in terms of dominating yearly transacti
 | Hardware   | Infrared binoculars camera      |
 | Hardware    |   3D structured light     |  
 | Communication  | 5G & SAAS cloud        | 
-| Data  | Dadatbase of users' ID        | 
+| Data  | Database of users' ID        | 
 | Recgonition  | Biometric technology       | 
 
 ### Why are these technologies appropriate for your solution?
